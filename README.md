@@ -1,3 +1,5 @@
+-Hi, My name is Stellamaris Ijeoma Okeh, a data enthusiast.
+- 
 - 👋 Hi, I’m @Techy-Stargirl
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning data visulaizations with Power Bi and DAX
